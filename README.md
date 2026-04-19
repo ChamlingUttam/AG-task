@@ -70,10 +70,10 @@ npm run dev
 
 
 ###  Landing Page
-![landing](./screenshot/landing.png)
+![landing](screenshot/landing.png)
 
 ###  Countries Page
-![countries](./screenshot/countries.png)
+![countries](screenshot/countries.png)
 
 ###  Countries Page
-![countries](./screenshot/countriesSearchFun.png)
+![countries](screenshot/countriesSearchFun.png)
