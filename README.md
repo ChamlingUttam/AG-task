@@ -68,13 +68,11 @@ npm run dev  ```
 
 ## Screen-Shot
 
-## 🖼️ Screenshots
-
 ### Landing Page
-![Landing](./screenshot/landing.png)
+![Landing](screenshot/landing.png)
 
 ### Countries Page
-![Countries](./screenshot/countries.png)
+![Countries](screenshot/countries.png)
 
 ### Search Feature
-![Search](./screenshot/countriesSearchFun.png)
+![Search](screenshot/countriesSearchFun.png)
