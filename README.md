@@ -51,7 +51,7 @@ cd AG-task
 npm install
 
 # Run dev server
-npm run dev
+npm run dev  ```
 
 
 ## Design Decision
